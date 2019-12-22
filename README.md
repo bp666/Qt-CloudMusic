@@ -11,7 +11,7 @@ linux：       GStreamer
 
 ![SongList](https://github.com/bp666/Qt-CloudMusic/blob/master/images/SongList.png)
 
-### 网络音乐来自酷狗
+### 网络音乐来自酷狗（已失效）
 
 界面、图标版权为网易公司所有！
 网络音源为酷狗公司所有！
